@@ -1,0 +1,52 @@
+---
+title: "Manuscript_Draft"
+author: "JoeNRoe"
+date: "2023-03-13"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Introduction  
+
+##### Minimum Descriptive Length  
+
+##### Fit Propensity  
+
+##### Wes Bunnifay's Dissertation/Pub  
+
+A key limitation of the Wes Bunnifay's 2017 work was the data simulation methods - specifically not restricting the simulated data to datasets that are plausible (rather than data that's wholly random noise). Another limitation is that the work is mostly conducted in FlexMIRT and the analysis code was not published with the manuscript- making it hard or impossible to fully understand the work and/or replicate.  
+
+Extend by also generating data from the space of legitimate correlation matrices (instead of random noise)
+
+### Methods  
+
+#### Replication  
+
+##### Data (Simulation)  
+
+##### Analysis  
+
+#### New work  
+
+##### Data (Simulation)  
+
+##### Analysis  
+
+
+### Results  
+
+#### Replication  
+
+#### New Work  
+
+### Discussion  
+
+### References  
+
+
+OG Wes Bunnifay cite:  
+https://www.tandfonline.com/doi/abs/10.1080/00273171.2017.1309262  
+
